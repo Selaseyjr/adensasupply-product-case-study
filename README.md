@@ -20,7 +20,7 @@ Ten problems became one clear website. Designed in Figma. Live today.
 
 <img src="assets/slides.webp" alt="Slides from the Figma design" width="100%">
 
-<a href="https://selasey-gbeddy.vercel.app/gallery/adensasupply.html"><img src="https://img.shields.io/badge/Click_through_the_slides-0F0D0A?style=for-the-badge" alt="Click through the slides"></a>
+<a href="https://selasey-gbeddy.vercel.app/gallery/adensasupply.html"><img src="https://img.shields.io/badge/Click_here_to_view_slides-0F0D0A?style=for-the-badge" alt="Click here to view slides"></a>
 
 </div>
 
