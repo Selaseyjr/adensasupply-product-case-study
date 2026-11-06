@@ -12,12 +12,16 @@
 
 That question shaped everything.
 
-Ten problems. One system. A live website.
+Clients abroad pay for work they cannot see. Local clients want a quote, fast.
 
-<table>
-<tr><td width="50%"><img src="assets/1-The-question.png" alt="The product question"><br><sub>The product question</sub></td><td width="50%"><img src="assets/2-Ten-problems.png" alt="Discovery: ten problems, one system"><br><sub>Discovery: ten problems, one system</sub></td></tr>
-<tr><td width="50%"><img src="assets/3-Sitemap.png" alt="Information architecture"><br><sub>Information architecture</sub></td><td width="50%"><img src="assets/4-Journeys.png" alt="User journeys"><br><sub>User journeys</sub></td></tr>
-<tr><td width="50%"><img src="assets/5-Decisions.png" alt="Design decisions"><br><sub>Design decisions</sub></td><td width="50%"><img src="assets/6-Full-story.png" alt="The full story"><br><sub>The full story</sub></td></tr>
-</table>
+Ten problems became one clear website. Designed in Figma. Live today.
+
+<div align="center">
+
+<img src="assets/slides.webp" alt="Slides from the Figma design" width="100%">
+
+<a href="https://selasey-gbeddy.vercel.app/gallery/adensasupply.html"><img src="https://img.shields.io/badge/Click_through_the_slides-0F0D0A?style=for-the-badge" alt="Click through the slides"></a>
+
+</div>
 
 <div align="center"><sub>Design artefacts only. This repository holds no website source code.<br><a href="https://selasey-gbeddy.vercel.app">Portfolio</a> · <a href="https://www.figma.com/@selaseyjr">Figma</a></sub></div>
