@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="From business problem to live website">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2BD9A0"/><stop offset=".38" stop-color="#4D8DFF"/><stop offset=".58" stop-color="#B66DFF"/><stop offset=".78" stop-color="#FF5470"/><stop offset="1" stop-color="#FFC23D"/></linearGradient></defs>
+<rect width="1200" height="320" rx="20" fill="#0F0D0A"/><rect width="1200" height="8" fill="url(#g)"/>
+<text x="64" y="92" font-family="Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="#2BD9A0">PRODUCT CASE STUDY</text>
+<text x="64" y="170" font-family="Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#F7F2E8">From business problem to live website</text>
+<text x="64" y="222" font-family="Helvetica,Arial,sans-serif" font-size="26" fill="#D9D0C0">adensasupply.com, designed around trust</text>
+<text x="64" y="272" font-family="Menlo,Consolas,monospace" font-size="18" fill="#B5AA97">Selasey Gbeddy · Digital Product Lead</text></svg>
