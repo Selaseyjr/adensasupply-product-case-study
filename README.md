@@ -8,38 +8,16 @@
 
 </div>
 
-## The question
+## Can I trust this company with my money?
 
-**Can I trust this company with my money?** Clients pay for building work they often cannot see, so trust became the first design requirement.
+That question shaped everything.
 
-| Who | What they need |
-|---|---|
-| **Owner building from abroad** | Proof, written records and a safe way to pay |
-| **Local client** | A fast quote and easy contact, usually on a phone |
-
-## What this shows
-
-| Stage | Output |
-|---|---|
-| **Discovery** | Ten business and client problems, each with a status |
-| **Information architecture** | A sitemap where every page has one job |
-| **User journeys** | Booking a site visit and paying safely |
-| **Design decisions** | Writing rules and a recognisable WhatsApp button |
-| **Delivery** | A live, mobile-first website |
-
-## A closer look
+Ten problems. One system. A live website.
 
 <table>
 <tr><td width="50%"><img src="assets/1-The-question.png" alt="The product question"><br><sub>The product question</sub></td><td width="50%"><img src="assets/2-Ten-problems.png" alt="Discovery: ten problems, one system"><br><sub>Discovery: ten problems, one system</sub></td></tr>
 <tr><td width="50%"><img src="assets/3-Sitemap.png" alt="Information architecture"><br><sub>Information architecture</sub></td><td width="50%"><img src="assets/4-Journeys.png" alt="User journeys"><br><sub>User journeys</sub></td></tr>
 <tr><td width="50%"><img src="assets/5-Decisions.png" alt="Design decisions"><br><sub>Design decisions</sub></td><td width="50%"><img src="assets/6-Full-story.png" alt="The full story"><br><sub>The full story</sub></td></tr>
 </table>
-
-
-## A decision worth noting
-
-The first WhatsApp button matched the brand colour. It became a white button with the familiar green mark, because instant recognition mattered more than consistency.
-
----
 
 <div align="center"><sub>Design artefacts only. This repository holds no website source code.<br><a href="https://selasey-gbeddy.vercel.app">Portfolio</a> · <a href="https://www.figma.com/@selaseyjr">Figma</a></sub></div>
